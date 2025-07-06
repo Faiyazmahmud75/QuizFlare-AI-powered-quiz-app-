@@ -7,7 +7,12 @@
     "@google/genai": "^1.8.0",
     "@netlify/functions": "^2.6.0"
   },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir publish"
+  },
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "parcel": "^2.12.0"
   }
 }

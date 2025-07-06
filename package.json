@@ -12,15 +12,11 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.23.1"
   },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir publish"
+  },
   "devDependencies": {
-    "@google/genai": "^1.8.0",
-    "@netlify/functions": "^2.6.0",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "autoprefixer": "^10.4.19",
-    "parcel": "^2.12.0",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4",
     "typescript": "^5.0.0"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "name": "QuizFlare",
+  "description": "A modern, single-page AI-powered quiz application. It allows guest users to create, manage, and delete their own quizzes, while all visitors can participate in any available quiz. The app features two quiz types (MCQ and Short Answer), a dynamic timer, a public leaderboard, and robust filtering/sorting options.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

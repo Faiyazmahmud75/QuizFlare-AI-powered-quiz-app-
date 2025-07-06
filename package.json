@@ -1,0 +1,13 @@
+{
+  "name": "quizflare-netlify",
+  "version": "1.0.0",
+  "description": "QuizFlare with Netlify Functions",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "@netlify/functions": "^2.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

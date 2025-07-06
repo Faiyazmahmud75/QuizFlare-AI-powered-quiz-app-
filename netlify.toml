@@ -1,0 +1,6 @@
+# netlify.toml
+[build]
+  # Your site's static files (index.html, etc.) are in the root
+  publish = "/" 
+  # The directory for your serverless functions
+  functions = "netlify/functions/"
